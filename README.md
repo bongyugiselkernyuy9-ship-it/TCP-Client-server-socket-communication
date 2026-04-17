@@ -7,13 +7,13 @@
 
 | S/N | Full Name | Matriculation No. |
 |-----|-----------|-------------------|
-| 1   |           |                   |
-| 2   |           |                   |
-| 3   |           |                   |
-| 4   |           |                   |
-| 5   |           |                   |
-| 6   |           |                   |
-| 7   |           |                   |
+| 1   | Kewangang Muhammed Nurdin  | UBa25EP109|
+| 2   | Moffo Djoumessi Jacy Raghnall | UBa25EP114 |
+| 3   |   Moifo Yonta Christian Baumel| UBa25EP106 |
+| 4   | Darren Ngong Muyien   | UBa25EP119|
+| 5   |   Bongyu Gisel Kernyuy | UBa25EP124  |
+| 6   |    Takouh Hycenth Ntonui | UBa25EP110 |
+| 7   |  Ndoh Mbinjong Che |   UBa25EP111|
 | 8   |           |                   |
 
 **Date of Submission:**
