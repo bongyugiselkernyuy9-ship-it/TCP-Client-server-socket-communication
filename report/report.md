@@ -2,9 +2,15 @@
 
 **Group Identification (NAME):*Group-05-cap-theorem*
 **Group Members (Names):**
-**Date of Submission:**
-**GitHub Repository URL:**
-
+Kewangang Muhammed Nurdin UBa25EP109
+Moffo Djoumessi Jacy Raghnall UBa25EP114
+Moifo Yonta Christian Baumel UBa25EP106
+Darren Ngong Muyien UBa25EP119
+Bongyu Gisel Kernyuy UBa25EP124
+Takouh Hycenth Ntonui UBa25EP110
+Ndoh Mbinjong Che UBa25EP111*
+**Date of Submission:*17/04/2025*
+**GitHub Repository URL:*https://github.com/cybe6223-2026/lab-0-tcp-socket-communication-5-group-05-cap-theorem.git
 ---
 
 ## 1. Implementation Summary
