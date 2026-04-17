@@ -1,7 +1,8 @@
 # CYBE 6223 — Lab 0 Report
 
 **Group Identification (NAME):**
-**Group Members (Names):**
+**Group Members (Names):*
+MOIFO YONTA CHRISTIAN BAUMEL    UBa25EP106*
 **Date of Submission:**
 **GitHub Repository URL:**
 
