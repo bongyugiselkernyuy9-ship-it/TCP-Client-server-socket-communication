@@ -9,7 +9,7 @@ client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 client.connect((HOST, PORT))
 
-message = input("Type your message here: ")
+message = input("Enter your message here: ")
 client.sendall(message.encode())
 
 data = client.recv(1024)
