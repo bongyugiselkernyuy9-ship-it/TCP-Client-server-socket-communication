@@ -13,6 +13,6 @@ message = input("Enter your message here: ")
 client.sendall(message.encode())
 
 data = client.recv(1024)
-print("Received from server:", data.decode())
+print("Accepted from server:", data.decode())
 
 client.close()
