@@ -18,7 +18,7 @@
 
 **Date of Submission:**
 **GitHub Repository URL:**
-**Due: Saturday 18 April 2026 · 16:00 · Submit via this repository**
+**Due: Saturday 18 April 2026 · 16:30· Submit via this repository**
 
 ## Objective
 Implement a basic TCP echo server and client in Python.

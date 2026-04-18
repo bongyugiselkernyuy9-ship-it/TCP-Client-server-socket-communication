@@ -15,7 +15,7 @@ https://github.com/cybe6223-2026/lab-0-tcp-socket-communication-5-group-05-cap-t
 ---
 
 ## 1. Implementation Summary
-In this lab, I implemented a basic TCP client-server system using Python sockets.  
+In this lab, we implemented a basic TCP client-server system using Python sockets.  
 The server listens on a specific IP address and port, receives messages from a client, and sends the same message back (echo).  
 The client connects to the server, sends a message, receives the response, and prints it to the screen.
 
